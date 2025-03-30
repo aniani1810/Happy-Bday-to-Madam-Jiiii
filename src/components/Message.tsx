@@ -17,7 +17,7 @@ const Message = () => {
           Happy Birthday Madam Jii!!! 😍 On this day, I just want you to know how deeply cherished and loved you are. And I'm grateful for every moment we share together. 🤭 May this year bring you as much happiness as you give those around you cutie. 🫠 Keep smiling always just like you're smiling right now, beautiful.. 🥰 Can't wait to meet you soooonnn!! 🥹
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, i wish you the happiest birthday
+          On your special day, I wish you the happiest birthdayyyyy! ❤️
         </p>
       </motion.div>
     </div>
