@@ -14,10 +14,7 @@ const Message = () => {
           Dear Madam Ji,
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & i guess we know nothing about eachother but this
-          is my kindness to show you how much i value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories together.
-          I'm starting this new year with a new friend as you and i hope our friendship will last forever.
+          Happy Birthday Madam Jii!!! 😍 On this day, I just want you to know how deeply cherished and loved you are. And I'm grateful for every moment we share together. 🤭 May this year bring you as much happiness as you give those around you cutie. 🫠 Keep smiling always just like you're smiling right now, beautiful.. 🥰 Can't wait to meet you soooonnn!! 🥹
         </p>
         <p className="text-lg text-pink-600 font-semibold">
           and on your special day, i wish you the happiest birthday
